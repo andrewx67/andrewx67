@@ -1,4 +1,4 @@
-## Hi im andrew and I am a Computer Science Major 👋
+## Hi im Andrew and I am a Computer Science Major 👋
 
 <!--
 **andrewx67/andrewx67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
